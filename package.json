@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:Tetz/nft-creator.git",
   "author": "Tetsuro Takemoto",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.9.2"
+  }
 }
