@@ -1,0 +1,8 @@
+{
+  "name": "nft-creator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Tetz/nft-creator.git",
+  "author": "Tetsuro Takemoto",
+  "license": "MIT"
+}
